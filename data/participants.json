@@ -7,9 +7,36 @@
     },
 
     {
+      "name": "Deepanshu Yadav",
+      "imageURL": "https://www.wallpapers13.com/wp-content/uploads/2016/01/Sunset-Background-Images-Hd-Sunset-background-images-hd-07329-1920x1440.jpg",
+      "about": "A member of GDSC SLRTCE"
+    }, 
+    {
+      "name": "Amey Bhavsar",
+      "imageURL": "https://images.unsplash.com/photo-1611267254323-4db7b39c732c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y3V0ZSUyMGNhdHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
+      "about": "A member of GDSC SLRTCE"
+    },
+    {
+      "name": "Yash Gupta",
+      "imageURL": "https://pbs.twimg.com/profile_images/1257280933557710850/95taFO3E_400x400.jpg",
+      "about": "A member of GDSC SLRTCE"
+    },
+     {
+      "name": "Arshdeep Singh",
+      "imageURL": "https://preview.redd.it/5ikm1tf50lh61.jpg?width=542&format=pjpg&auto=webp&s=d37ba420d041749ec95f8c65dab67429a1d0cb51",
+      "about": "A member of GDSC SLRTCE"
+    },
+    {
+      "name": "Jay K",
+      "imageURL": "https://pbs.twimg.com/profile_images/1257280933557710850/95taFO3E_400x400.jpg",
+
+      "about": "A member of GDSC SLRTCE"
+    },   
+    {
       "name": "Priyanka Peddinti",
       "imageURL": "https://blogmedia.evbstatic.com/wp-content/uploads/wpmulti/sites/8/unsplash-Josh-Earl.jpg",
-      "about": "A member of GDSC SLRTCE"
+      "about": "A newbie member of the SLRTCE GDSC"
     }
+    
   ]
 }
