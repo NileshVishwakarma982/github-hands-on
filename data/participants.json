@@ -7,11 +7,17 @@
     },
     {
       "name": "Deepanshu Yadav",
-      "imageURL": "https://pbs.twimg.com/profile_images/1257280933557710850/95taFO3E_400x400.jpg"
+      "imageURL": "https://pbs.twimg.com/profile_images/1257280933557710850/95taFO3E_400x400.jpg",
+      "about": "A member of GDSC SLRTCE"
     }, 
     {
       "name": "Amey Bhavsar",
       "imageURL": "https://images.unsplash.com/photo-1611267254323-4db7b39c732c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y3V0ZSUyMGNhdHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
+      "about": "A member of GDSC SLRTCE"
+    },
+    {
+      "name": "Yash Gupta",
+      "imageURL": "https://pbs.twimg.com/profile_images/1257280933557710850/95taFO3E_400x400.jpg",
       "about": "A member of GDSC SLRTCE"
     }
   ]
