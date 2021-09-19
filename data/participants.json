@@ -5,6 +5,7 @@
       "imageURL": "https://pbs.twimg.com/profile_images/1257280933557710850/95taFO3E_400x400.jpg",
       "about": "A member of GDSC SLRTCE"
     },
+
     {
       "name": "Deepanshu Yadav",
       "imageURL": "https://www.wallpapers13.com/wp-content/uploads/2016/01/Sunset-Background-Images-Hd-Sunset-background-images-hd-07329-1920x1440.jpg",
@@ -28,7 +29,13 @@
     {
       "name": "Jay K",
       "imageURL": "https://pbs.twimg.com/profile_images/1257280933557710850/95taFO3E_400x400.jpg",
+
       "about": "A member of GDSC SLRTCE"
+    },   
+    {
+      "name": "Priyanka Peddinti",
+      "imageURL": "https://blogmedia.evbstatic.com/wp-content/uploads/wpmulti/sites/8/unsplash-Josh-Earl.jpg",
+      "about": "A newbie member of the SLRTCE GDSC"
     }
     
   ]
